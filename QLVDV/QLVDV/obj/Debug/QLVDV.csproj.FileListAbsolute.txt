@@ -1,0 +1,12 @@
+C:\Users\tuan.nguyen1\source\repos\QLVDV\QLVDV\bin\Debug\QLVDV.exe.config
+C:\Users\tuan.nguyen1\source\repos\QLVDV\QLVDV\bin\Debug\QLVDV.exe
+C:\Users\tuan.nguyen1\source\repos\QLVDV\QLVDV\bin\Debug\QLVDV.pdb
+C:\Users\tuan.nguyen1\source\repos\QLVDV\QLVDV\obj\Debug\QLVDV.csprojAssemblyReference.cache
+C:\Users\tuan.nguyen1\source\repos\QLVDV\QLVDV\obj\Debug\QLVDV.Properties.Resources.resources
+C:\Users\tuan.nguyen1\source\repos\QLVDV\QLVDV\obj\Debug\QLVDV.csproj.GenerateResource.cache
+C:\Users\tuan.nguyen1\source\repos\QLVDV\QLVDV\obj\Debug\QLVDV.csproj.CoreCompileInputs.cache
+C:\Users\tuan.nguyen1\source\repos\QLVDV\QLVDV\obj\Debug\QLVDV.exe
+C:\Users\tuan.nguyen1\source\repos\QLVDV\QLVDV\obj\Debug\QLVDV.pdb
+C:\Users\tuan.nguyen1\source\repos\QLVDV\QLVDV\obj\Debug\QLVDV.homepage.resources
+C:\Users\tuan.nguyen1\source\repos\QLVDV\QLVDV\obj\Debug\QLVDV.login.resources
+C:\Users\tuan.nguyen1\source\repos\QLVDV\QLVDV\obj\Debug\QLVDV.QLThanhVien.resources
